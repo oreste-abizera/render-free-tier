@@ -14,4 +14,4 @@ render-free-tier is a simple web application created using [Node.js](https://git
 
 ## Live Preview
 
-To view a live preview of this application, click [here]()
+To view a live preview of this application, click [here](https://render-free-tier.onrender.com/)
