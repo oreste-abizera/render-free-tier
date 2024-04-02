@@ -1,7 +1,7 @@
 {
   "name": "render-free-tier",
   "version": "1.0.0",
-  "description": "Test render free tier with no downtime",
+  "description": "Testing render free tier with no downtime",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -20,6 +20,7 @@
   "dependencies": {
     "ejs": "^3.1.7",
     "express": "^4.17.3",
+    "node-cron": "^3.0.3",
     "node-fetch": "^2.6.7",
     "nodemon": "^2.0.20",
     "request": "^2.88.2",
