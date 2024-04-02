@@ -1,0 +1,28 @@
+{
+  "name": "render-free-tier",
+  "version": "1.0.0",
+  "description": "Test render free tier with no downtime",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oreste-abizera/render-free-tier.git"
+  },
+  "author": "Oreste Abizera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oreste-abizera/render-free-tier/issues"
+  },
+  "homepage": "https://github.com/oreste-abizera/render-free-tier#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "wiki-infobox-parser": "^0.1.11"
+  }
+}
